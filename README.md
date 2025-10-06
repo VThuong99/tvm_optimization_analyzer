@@ -53,7 +53,6 @@ The following results were obtained from running the analysis on the local machi
 | Attribute               | Value                                         |
 | ----------------------- | --------------------------------------------- |
 | **CPU Name**            | Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz        |
-| **Architecture**        | Intel64 Family 6 Model 142 Stepping 10        |
 | **Cores**               | 4                                             |
 | **Logical Processors**  | 8                                             |
 | **Max Clock Speed**     | 1800 MHz                                      |
