@@ -38,7 +38,7 @@ Follow these instructions to set up and run the project on your local machine.
     pip install -r requirements.txt -f https://mlc.ai/wheels
     ```
 
-## Running the Analysis
+## Run
 
 ```bash
 python -m src.main
