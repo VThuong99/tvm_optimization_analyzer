@@ -34,6 +34,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 3.  **Install dependencies:**
     This project uses a nightly build of TVM for quick experimentation. The command below provides a simple way to install all necessary packages for experiment, that I learned from the [Machine Learning Compilation course](https://mlc-ai.translate.goog/summer22/?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=tc).
+    ```
     pip install -r requirements.txt -f https://mlc.ai/wheels
     ```
 
@@ -58,8 +59,6 @@ The following results were obtained from running the analysis on the local machi
 | **Max Clock Speed**     | 1800 MHz                                      |
 
 ### Performance Chart
-
-*(**Lưu ý quan trọng:** Bạn cần chụp lại hình ảnh kết quả của mình, lưu nó vào dự án (ví dụ: tạo một thư mục tên `images` và lưu file `results.png` vào đó), sau đó cập nhật đường dẫn bên dưới cho đúng.)*
 
 ![Performance Chart](./images/result.png)
 
