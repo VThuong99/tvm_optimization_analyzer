@@ -1,0 +1,9 @@
+# This file lists the project dependencies.
+# The main package, mlc-ai-nightly, requires a specific installation
+# command with a find-links URL. See README.md for full instructions.
+
+mlc-ai-nightly
+numpy
+matplotlib
+torch
+torchvision
